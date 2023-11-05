@@ -6,7 +6,7 @@ export const Name = "HelloWorld";
 /**
 * Node's React Component
 */
-export function Content({}) {
+export default function Content({}) {
     return <h1>HelloWorld</h1>;
 }
 
